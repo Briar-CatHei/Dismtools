@@ -70,8 +70,8 @@ get-imageinfo
 #### 释放映像——指定映像以安装系统
 
 在主窗体点击“释放映像”打开相关窗体，首先点击“启动diskpart”以打开diskpart磁盘分区程序对指定磁盘进行分区（要求为系统分区和EFI分区指定盘符，且磁盘为物理磁盘，如U盘、移动硬盘等）。
-![image](https://github.com/Briar-CatHei/Dismtools/assets/82100581/4448c897-41da-4bc4-9724-26b2179f34cd)
 
+![image](https://github.com/Briar-CatHei/Dismtools/assets/82100581/4448c897-41da-4bc4-9724-26b2179f34cd)
 
 然后指定映像文件、释放路径和映像序号以安装系统于释放路径，点击“确定”开始安装。
 ![image](https://github.com/Briar-CatHei/Dismtools/assets/82100581/bda3759c-ddbc-4874-9576-55d3bc4a5285)
