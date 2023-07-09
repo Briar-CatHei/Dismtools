@@ -78,14 +78,11 @@ get-imageinfo
 
 
 待映像释放完成，即系统安装后，点击“添加引导记录”进入相关窗体，设置系统路径（释放盘符:\Windows）和EFI路径，点击“确定”即可添加引导记录于安装盘的EFI分区。
-![image](https://github.com/Briar-CatHei/Dismtools/assets/82100581/4dd048b2-de04-44a2-9634-673bca39c004)
-![image](https://github.com/Briar-CatHei/Dismtools/assets/82100581/3239e77d-3164-447b-88ef-a55d17d84469)
+![image](https://github.com/Briar-CatHei/Dismtools/assets/82100581/4448c897-41da-4bc4-9724-26b2179f34cd)
 
 最后放入虚拟机测试（指定物理磁盘，要求管理员权限）
 ![image](https://github.com/Briar-CatHei/Dismtools/assets/82100581/da202438-67fd-4bd7-a75b-58a8d92ed017)
 
- 
 
-最后放入虚拟机测试（指定物理磁盘，要求管理员权限）
  
 
