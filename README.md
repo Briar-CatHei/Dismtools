@@ -4,6 +4,9 @@
 A simple GUI tool based-on Dism command
 (For testing)
 
+一个简单的基于DISM命令的GUI实现
+(仅供测试)
+
 ## Demo
 ![image](https://github.com/Briar-CatHei/Dismtools/assets/82100581/7b46e740-a5e7-40c5-aa3b-c63475a65e03)
 get-imageinfo
